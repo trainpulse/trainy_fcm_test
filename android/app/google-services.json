@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852981835578",
+    "project_id": "trainyapp-3a541",
+    "storage_bucket": "trainyapp-3a541.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852981835578:android:25b78d9193107330299203",
+        "android_client_info": {
+          "package_name": "com.example.trainy_fcm_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwN5QhHERK8gfDjtSvGVoXcd0c7cfIr1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
