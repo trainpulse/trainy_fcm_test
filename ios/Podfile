@@ -1,4 +1,5 @@
 platform :ios, '15.0'
+$iOSVersion = '15.0'
 
 ENV['COCOAPODS_DISABLE_STATS'] = 'true'
 
